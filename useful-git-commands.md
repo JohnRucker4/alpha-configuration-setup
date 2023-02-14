@@ -17,4 +17,4 @@
 - GitHub - online platform for git, GUI for sharing code and collaboration
 - local - your personal computer
 - commit - adding a tracking number and message to your version
-
+- diff - difference between GitHub and local
