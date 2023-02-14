@@ -29,3 +29,10 @@
 - git commit -m "what was changed"
 - git push origin main
 - refresh GitHub site
+
+### Notes about Branching
+
+- Branching protects your code from erros that can cause yoru app to be down in production
+- Branching allows multiple people to work on code at the same time
+- Branching is a best practice for all developers on all projects
+- The main branch is the source of truth and should only ever have working code
