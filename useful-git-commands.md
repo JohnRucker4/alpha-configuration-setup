@@ -18,3 +18,14 @@
 - local - your personal computer
 - commit - adding a tracking number and message to your version
 - diff - difference between GitHub and local
+- markdown (.md)
+
+### Processes
+
+- changes in VSCode
+- save in VSCode
+- git add file-name
+- git status
+- git commit -m "what was changed"
+- git push origin main
+- refresh GitHub site
